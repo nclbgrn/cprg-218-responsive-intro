@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+body{
+    background-color:rgb(218, 199, 175);
+    color:black
+}
+
+@media screen and (max-width:500px){
+body{
+    background-color: rgb(128, 147, 163);
+  }
+}
+@media screen and (max-width:400px) {
+    body{
+        background-color:cadetblue;
+        color:rgb(0, 0, 0);
+    }
+}
+  
+
